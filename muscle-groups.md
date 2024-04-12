@@ -1,66 +1,67 @@
-# Quadriceps
+# Muscle Groups
+## Quadriceps
 - Leg extensions
 - Sissy squats (bodyweight or with cables)
 
-# Hamstrings
+## Hamstrings
 - Seated leg curl
 
-# Calves
+## Calves
 - Standing toe raises
 
-# Pecs
+## Pecs
 - Slightly decline bumbbell press
 - Seated cable press
 
-# Lats
+## Lats
 - One arm lat pull-in with cable
 
-# Middle Trapezius
+## Middle Trapezius
 - Scapular retraction
 
-# Upper Trapezius
+## Upper Trapezius
 - Standing shrugs with cables or dumbbells
 
-# Erector Trapezius (lower back)
+## Erector Trapezius (lower back)
 - Seated or standing spinal extensions
 
-# Side Deltoid
+## Side Deltoid
 - Side cable raises
 - Lying on bench one-side laterals with dumbbell or cable
 <!-- "Standing dumbbell or cable lateral raises"? -->
 
-# Front Deltoids
+## Front Deltoids
 - Seated cable front press
 - Slight decline dumbbell press <!-- check if dumbbell or barbell -->
 
-# Rear Deltoids
+## Rear Deltoids
 - Two arm cross cable rear laterals <!-- "Two-arm cross cable rear delt flyes"> --> 
 
-# Rotator Cuff
+## Rotator Cuff
 - Lying dumbbell humeral rotation
 
-# Biceps
+## Biceps
 - Standing cable curls
 - Standing dumbbell curls
 
-# Triceps
+## Triceps
 - Modified cable pushdowns (done seated, cable coming from above head to the front)
 - Decline dumbbell tricep extension
 
-# Forearm Flexors
+## Forearm Flexors
 - Dumbbell or barbell wrist curls
 
-# Rectus Abdominis
+## Rectus Abdominis
 - Ab crunches on an incline bench
 
-# External Obliques
+## External Obliques
 - Cable side bends
 
-# Internal Obliques
+## Internal Obliques
 - Cable torso rotation with pulley
 
-# Gluteus
+## Gluteus
 - Hip extensions on multi-hip machine
 
-# Hip Flexors
+## Hip Flexors
 - Standing alternate knee raises (with optional ankle weights)
