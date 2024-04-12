@@ -9,7 +9,7 @@
 - Standing toe raises
 
 # Pecs
-- Slightly decline bumbell press
+- Slightly decline bumbbell press
 - Seated cable press
 
 # Lats
@@ -19,21 +19,22 @@
 - Scapular retraction
 
 # Upper Trapezius
-- Standing shrugs with cablesor dumbbells
+- Standing shrugs with cables or dumbbells
 
 # Erector Trapezius (lower back)
 - Seated or standing spinal extensions
 
 # Side Deltoid
 - Side cable raises
-- Lying on bench one-side laterals with dumbbell or cable 
+- Lying on bench one-side laterals with dumbbell or cable
+<!-- "Standing dumbbell or cable lateral raises"? -->
 
 # Front Deltoids
 - Seated cable front press
 - Slight decline dumbbell press <!-- check if dumbbell or barbell -->
 
 # Rear Deltoids
-- Two are cross cable rear laterals
+- Two arm cross cable rear laterals <!-- "Two-arm cross cable rear delt flyes"> --> 
 
 # Rotator Cuff
 - Lying dumbbell humeral rotation
@@ -44,10 +45,10 @@
 
 # Triceps
 - Modified cable pushdowns (done seated, cable coming from above head to the front)
-- Decline dumbbell tricep extentson
+- Decline dumbbell tricep extension
 
 # Forearm Flexors
-- Dumbbell wrist curls (dumbbell or barbell)
+- Dumbbell or barbell wrist curls
 
 # Rectus Abdominis
 - Ab crunches on an incline bench
