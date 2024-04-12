@@ -32,7 +32,7 @@
 
 ## Front Deltoids
 - Seated cable front press
-- Slight decline dumbbell press <!-- check if dumbbell or barbell -->
+- Slight decline dumbbell press
 
 ## Rear Deltoids
 - Two arm cross cable rear laterals <!-- "Two-arm cross cable rear delt flyes"> --> 
